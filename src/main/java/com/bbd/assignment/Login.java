@@ -2,9 +2,6 @@ package com.bbd.assignment;
 
 import java.util.List;
 
-import javax.xml.xpath.XPath;
-
-import org.junit.jupiter.params.shadow.com.univocity.parsers.annotations.FixedWidth;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
