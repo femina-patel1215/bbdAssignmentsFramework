@@ -13,14 +13,3 @@
 - Select any paymant option and then confirm order
 - Verify oder confirmation page content
 
-#Example 2)
-- Visit https://jqueryui.com/
-- Do automation for Draggable and Droppable scenario
-- Do automation for widgets Button, Checkboxradio, control group, date picker, Dialog, Tabs
-
-#Example 3)
-- Visit `https://only-testing.blog.blogspot.com/2014/01/textbox.html`
-- Automate this page and also upload a file into it.
-
-#Example 4 : 
-- Please add above all scenarios to your own cretaed framework
